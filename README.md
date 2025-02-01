@@ -22,7 +22,6 @@ The website is designed to be fully responsive and visually engaging. It include
 - **Google Fonts (Poppins):** For typography.
 
 ## Credits
-- This website is heavily inspired by Mr. Leonam Silva De Souza's Website.
 - Iconography provided by Ionicons.
 - Fonts provided by Google Fonts.
 
