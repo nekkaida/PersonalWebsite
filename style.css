@@ -728,7 +728,10 @@ article { display: none; }
 
 .skills-list { padding: 20px; }
 
-.skills-item:not(:last-child) {margin-bottom: 15px; }
+.skills-item {
+    color: var(--vegas-gold);
+    font-size: 30px;
+}
 
 .skill .title-wrapper {
     display: flex;
@@ -1273,8 +1276,6 @@ textarea.form-input {
         width: 8px;
         left: -43px;
     }
-
-    .skills-item:not(:last-child) { margin-bottom: 25px; }
 
     .project-img, .blog-banner-box { border-radius: 16px; }
 
